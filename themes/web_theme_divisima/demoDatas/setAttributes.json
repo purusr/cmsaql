@@ -1,0 +1,64 @@
+{
+  "collection": "setAttributes",
+  "datas": [
+    {
+      "attributes": [
+        "5f2a6be0f759442fb418cdb1",
+        "5f2a6c4ff759442fb418cdb6",
+        "5f2a6c80f759442fb418cf13",
+        "5f2ab2ca4168fe0b983ca9e2"
+      ],
+      "_id": "5c5abe92c1f87b5f46c451fa",
+      "code": "defaut",
+      "name": "Défaut",
+      "questions": [
+        {
+          "_id": "5ece72437e761b3028c48f8c",
+          "translation": {
+            "fr": {
+              "question": "Test"
+            },
+            "en": {
+              "question": "Test"
+            }
+          }
+        }
+      ],
+      "type": "products"
+    },
+    {
+      "attributes": [],
+      "_id": "5d1389b79c3ca1852c09d1cb",
+      "code": "defautUser",
+      "name": "DéfautUser",
+      "type": "users",
+      "questions": []
+    },
+    {
+      "attributes": [
+        "5f2a6be0f759442fb418cdb1",
+        "5f2a6c4ff759442fb418cdb6",
+        "5f2a6c80f759442fb418cf13",
+        "5f2a70acf759442fb418d065",
+        "5f2ab2ca4168fe0b983ca9e2"
+      ],
+      "_id": "5f2a7035f759442fb418cf16",
+      "code": "pantalons",
+      "name": "Pantalons",
+      "questions": []
+    },
+    {
+      "attributes": [
+        "5f2a6be0f759442fb418cdb1",
+        "5f2a6c4ff759442fb418cdb6",
+        "5f2a6c80f759442fb418cf13",
+        "5f2a70d8f759442fb418d068",
+        "5f2ab2ca4168fe0b983ca9e2"
+      ],
+      "_id": "5f2a703ef759442fb418cf17",
+      "code": "chaussures",
+      "name": "Chaussures",
+      "questions": []
+    }
+  ]
+}

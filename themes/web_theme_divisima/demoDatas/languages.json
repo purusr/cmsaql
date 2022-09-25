@@ -1,0 +1,21 @@
+{
+  "collection": "languages",
+  "datas": [
+    {
+      "position": 1,
+      "defaultLanguage": true,
+      "status": "visible",
+      "_id": "5f2952da02350f2a1466b815",
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "position": 1,
+      "defaultLanguage": false,
+      "status": "visible",
+      "_id": "62271c96998c1950987f681c",
+      "code": "en",
+      "name": "Anglais"
+    }
+  ]
+}

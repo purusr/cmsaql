@@ -1,0 +1,357 @@
+{
+  "collection": "rules",
+  "datas": [
+    {
+      "_id": "5d837a9246061121f852e797",
+      "conditions": [],
+      "owner_id": "5cb4961629ce8d1b88ad49b8",
+      "other_rules": [],
+      "owner_type": "discount",
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5e7b2793a0ca274100a1efa4",
+      "conditions": [
+        {
+          "_id": "5e7b2793a0ca274100a1efa5",
+          "target": "code",
+          "type": "text",
+          "value": "p000003",
+          "operator": "Egal à"
+        }
+      ],
+      "owner_type": "discount",
+      "owner_id": "5e7b2775a0ca274100a1efa3",
+      "other_rules": [],
+      "operand": "ET",
+      "effects": []
+    },
+    {
+      "_id": "5ec51c201d9bb130a49d7fc5",
+      "owner_id": "5ec51b741d9bb130a49d7fc4",
+      "conditions": [
+        {
+          "_id": "5ec51c201d9bb130a49d7fc6",
+          "target": "universe",
+          "type": "select",
+          "value": "customuniverse-customuniverse",
+          "operator": "Egal à"
+        }
+      ],
+      "effects": [
+        {
+          "_id": "5ec51c201d9bb130a49d7fc7",
+          "qty": 3,
+          "type": "P",
+          "value": 5
+        },
+        {
+          "_id": "5ec51c201d9bb130a49d7fc8",
+          "qty": 5,
+          "type": "P",
+          "value": 10
+        }
+      ],
+      "other_rules": [],
+      "owner_type": "discountAction",
+      "operand": "OU"
+    },
+    {
+      "_id": "5f2a6801f759442fb418ccc7",
+      "owner_type": "category",
+      "owner_id": "5f059b23c050df4bb0c55867",
+      "conditions": [
+        {
+          "_id": "5f2a6801f759442fb418ccc8",
+          "target": "universe",
+          "type": "select",
+          "value": "chaussures-chaussures",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a682df759442fb418ccd5",
+      "owner_type": "category",
+      "owner_id": "5f2a65b3f759442fb418cbc3",
+      "conditions": [
+        {
+          "_id": "5f2a682df759442fb418ccd6",
+          "target": "universe",
+          "type": "select",
+          "value": "robes-and-jupes-robes",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a683ef759442fb418ccdd",
+      "owner_type": "category",
+      "owner_id": "5f2a65c3f759442fb418cbc4",
+      "conditions": [
+        {
+          "_id": "5f2a683ef759442fb418ccde",
+          "target": "universe",
+          "type": "select",
+          "value": "hauts-hauts",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a6861f759442fb418cce5",
+      "owner_type": "category",
+      "owner_id": "5f2a66abf759442fb418cc7d",
+      "conditions": [
+        {
+          "_id": "5f2a6861f759442fb418cce6",
+          "target": "family",
+          "type": "select",
+          "value": "tops-and-t-shirts-tops",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a6870f759442fb418cced",
+      "owner_type": "category",
+      "owner_id": "5f2a66c0f759442fb418cc7e",
+      "conditions": [
+        {
+          "_id": "5f2a6870f759442fb418ccee",
+          "target": "family",
+          "type": "select",
+          "value": "chemisiers-chemisiers",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a6886f759442fb418ccf5",
+      "owner_type": "category",
+      "owner_id": "5f2a66d0f759442fb418cc7f",
+      "conditions": [
+        {
+          "_id": "5f2a6886f759442fb418ccf6",
+          "target": "family",
+          "type": "select",
+          "value": "pulls-and-gilets-pulls",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a689df759442fb418ccfd",
+      "owner_type": "category",
+      "owner_id": "5f2a66e3f759442fb418cc80",
+      "conditions": [
+        {
+          "_id": "5f2a689df759442fb418ccfe",
+          "target": "family",
+          "type": "select",
+          "value": "sweets-sweet",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a68adf759442fb418cd05",
+      "owner_type": "category",
+      "owner_id": "5f2a6601f759442fb418cc0e",
+      "conditions": [
+        {
+          "_id": "5f2a68adf759442fb418cd06",
+          "target": "universe",
+          "type": "select",
+          "value": "pantalons-pantalons",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a68bdf759442fb418cd0d",
+      "owner_type": "category",
+      "owner_id": "5f2a6617f759442fb418cc0f",
+      "conditions": [
+        {
+          "_id": "5f2a68bdf759442fb418cd0e",
+          "target": "universe",
+          "type": "select",
+          "value": "vestes-and-manteaux-vestes",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a68c3f759442fb418cd15",
+      "owner_type": "category",
+      "owner_id": "5f2a6617f759442fb418cc0f",
+      "conditions": [
+        {
+          "_id": "5f2a68c3f759442fb418cd16",
+          "target": "categorie.code",
+          "type": "text",
+          "value": "veste",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a68d5f759442fb418cd1d",
+      "owner_type": "category",
+      "owner_id": "5f2a673cf759442fb418cca0",
+      "conditions": [
+        {
+          "_id": "5f2a68d5f759442fb418cd1e",
+          "target": "categorie.code",
+          "type": "text",
+          "value": "bottines",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a68e9f759442fb418cd25",
+      "owner_type": "category",
+      "owner_id": "5f2a674af759442fb418cca1",
+      "conditions": [
+        {
+          "_id": "5f2a68e9f759442fb418cd26",
+          "target": "categorie.code",
+          "type": "text",
+          "value": "ballerines",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a68f8f759442fb418cd2d",
+      "owner_type": "category",
+      "owner_id": "5f2a6759f759442fb418cca2",
+      "conditions": [
+        {
+          "_id": "5f2a68f8f759442fb418cd2e",
+          "target": "categorie.code",
+          "type": "text",
+          "value": "escarpins",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a6906f759442fb418cd35",
+      "owner_type": "category",
+      "owner_id": "5f2a662cf759442fb418cc10",
+      "conditions": [
+        {
+          "_id": "5f2a6906f759442fb418cd36",
+          "target": "attr.translation.fr.marque",
+          "type": "select",
+          "value": "Toute",
+          "operator": "eq"
+        },
+        {
+          "_id": "5f2ab3494168fe0b983caa0d",
+          "target": "attr.translation.fr.marque",
+          "type": "select",
+          "value": "Alvi",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a6917f759442fb418cd3d",
+      "owner_type": "category",
+      "owner_id": "5f2a670bf759442fb418cc99",
+      "conditions": [
+        {
+          "_id": "5f2a6917f759442fb418cd3e",
+          "target": "attr.translation.fr.marque",
+          "type": "select",
+          "value": "Toute",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2a6a5af759442fb418cd5a",
+      "owner_type": "category",
+      "owner_id": "5f2a6a1ff759442fb418cd53",
+      "conditions": [
+        {
+          "_id": "5f2a6a5af759442fb418cd5b",
+          "target": "family",
+          "type": "select",
+          "value": "blouses-blouses",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    },
+    {
+      "_id": "5f2ab2ea4168fe0b983ca9ea",
+      "owner_type": "category",
+      "owner_id": "5f2ab2764168fe0b983ca9e1",
+      "conditions": [
+        {
+          "_id": "5f2ab2ea4168fe0b983ca9eb",
+          "target": "attr.translation.fr.marque",
+          "type": "select",
+          "value": "Alvi",
+          "operator": "eq"
+        }
+      ],
+      "other_rules": [],
+      "operand": "OU",
+      "effects": []
+    }
+  ]
+}

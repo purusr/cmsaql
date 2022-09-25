@@ -1,0 +1,124 @@
+{
+  "collection": "medias",
+  "datas": [
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e28",
+      "link": "medias/1.png",
+      "name": "1"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e29",
+      "link": "medias/2.png",
+      "name": "2"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e2a",
+      "link": "medias/3.png",
+      "name": "3"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e2b",
+      "link": "medias/arrow-down.png",
+      "name": "arrow-down"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e2c",
+      "link": "medias/arrow-up.png",
+      "name": "arrow-up"
+    },
+    {
+      "group": "Ban",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e2d",
+      "link": "medias/banner-bg.jpg",
+      "name": "banner-bg"
+    },
+    {
+      "group": "Ban",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e2e",
+      "link": "medias/bg-2.jpg",
+      "name": "bg-2"
+    },
+    {
+      "group": "Ban",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e2f",
+      "link": "medias/bg.jpg",
+      "name": "bg"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e30",
+      "link": "medias/cards.png",
+      "name": "cards"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e32",
+      "link": "medias/logo-light.png",
+      "name": "logo-light"
+    },
+    {
+      "group": "general",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e33",
+      "link": "medias/logo.png",
+      "name": "logo"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e34",
+      "link": "medias/mastercart.png",
+      "name": "mastercart"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e35",
+      "link": "medias/paypal.png",
+      "name": "paypal"
+    },
+    {
+      "group": "",
+      "extension": ".jpg",
+      "_id": "5f2187ee42cf5e3b48ae3e36",
+      "link": "medias/payplug.png",
+      "name": "payplug"
+    },
+    {
+      "group": "",
+      "extension": ".png",
+      "_id": "5f2387ae4f4f5e2b45aece4a",
+      "link": "medias/shipper.png",
+      "name": "shipper"
+    },
+    {
+      "group": "",
+      "extension": ".png",
+      "_id": "60465587aa4d0a41d82d9cb4",
+      "link": "medias/check.png",
+      "name": "check"
+    },
+    {
+      "group": "",
+      "extension": ".png",
+      "_id": "604654b8aa4d0a41d82d9cb3",
+      "link": "medias/cash.png",
+      "name": "cash"
+    }
+  ]
+}

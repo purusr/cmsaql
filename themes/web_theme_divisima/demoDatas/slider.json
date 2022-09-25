@@ -1,0 +1,42 @@
+{
+  "collection": "slider",
+  "datas": [
+    {
+      "name": "",
+      "code": "slider-accueil",
+      "accessibility": true,
+      "arrows": true,
+      "autoplay": true,
+      "autoplaySpeed": 3000,
+      "infinite": true,
+      "fade": false,
+      "lazyLoad": true,
+      "pauseOnHover": true,
+      "slidesToShow": 1,
+      "slidesToScroll": 1,
+      "speed": 500,
+      "swipe": true,
+      "_id": "5ba1f80349ceac42b4a16861",
+      "items": [
+        {
+          "order": 1,
+          "src": "medias/slider/bg.jpg",
+          "text": "Divisima",
+          "name": "Divisima",
+          "href": "",
+          "extension": ".jpg",
+          "_id": "5f21868a42cf5e3b48ae3e24"
+        },
+        {
+          "order": 2,
+          "src": "medias/slider/bg_2.jpg",
+          "text": "Divisima",
+          "name": "Divisima",
+          "href": "",
+          "extension": ".jpg",
+          "_id": "5f21869042cf5e3b48ae3e25"
+        }
+      ]
+    }
+  ]
+}

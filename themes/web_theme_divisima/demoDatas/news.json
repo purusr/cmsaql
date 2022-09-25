@@ -1,0 +1,57 @@
+{
+  "collection": "news",
+  "datas": [
+    {
+      "isVisible": true,
+      "img": "photos/article/20200805/bg.png",
+      "extension": ".jpg",
+      "_id": "5c80e3991064d755ec79137b",
+      "translation": {
+        "fr": {
+          "title": "Lancement du site !",
+          "content": {
+            "text": "<p><br /><br /><br /><br />&Ccedil;a y est ! Le site est lanc&eacute; ! Apr&egrave;s des semaines de pr&eacute;parations sur le site afin de rentrer tous nos produits, nous l'ouvrons enfin pour votre plus grand plaisir !</p>\n<p>Vous pouvez maintenant commander vos articles ici comme si vous &eacute;tiez en magasin !<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>",
+            "resume": "&Ccedil;a y est ! Le site est lanc&eacute; ! Apr&egrave;s des semaines de pr&eacute;parations sur le site afin de rentrer tous nos produits, nous l'ouvrons enfin pour votre plus grand plaisir !\nVous p"
+          },
+          "slug": "lancement"
+        },
+        "en": {
+          "title": "Lauch of the website !",
+          "content": {
+            "text": "That's it! The site is up ! After weeks of preparation on the site to enter all our products, we finally open it for your greatest pleasure! You can now order your items here as if you were in a store!",
+            "resume": "That's it! The site is up ! After weeks of preparation on the site to enter all our products, we finally open it for your greatest pleasure"
+          },
+          "slug": "launch"
+        }
+      },
+      "createdAt": "2019-03-07T09:25:45.876Z",
+      "updatedAt": "2020-08-18T07:31:19.505Z"
+    },
+    {
+      "isVisible": true,
+      "img": "photos/article/20200805/tshirt.png",
+      "extension": ".jpg",
+      "_id": "5c80e3be1064d755ec79137c",
+      "translation": {
+        "fr": {
+          "content": {
+            "text": "<div>Bonjour, voici une vid&eacute;o qui peut vous aider si vous vous demandez comment choisir votre taille de v&ecirc;tements.</div>\n<div style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/r9GX7znNbTI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe></div>",
+            "resume": "Bonjour, voici une vid&eacute;o qui peut vous aider si vous vous demandez comment choisir votre taille de v&ecirc;tements."
+          },
+          "title": "Comment choisir sa taille de vêtements ?",
+          "slug": "taille_vetements"
+        },
+        "en": {
+          "slug": "clothing_size",
+          "title": "How to choose our clothing size ?",
+          "content": {
+            "text": "<div>Hi, here is a video if you are asking yourself about how to choose our clothing size.</div>\n<div style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/r9GX7znNbTI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe></div>",
+            "resume": "Hi, here is a video if you are asking yourself about how to choose our clothing size."
+          }
+        }
+      },
+      "createdAt": "2020-07-18T11:00:00.830Z",
+      "updatedAt": "2020-08-05T09:00:07.780Z"
+    }
+  ]
+}

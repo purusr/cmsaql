@@ -1,0 +1,35 @@
+{
+  "collection": "themeConfig",
+  "datas": [
+    {
+      "_id": "6049dfe01f3b9a37d9245b67",
+      "name": "web_theme_divisima",
+      "config": {
+        "translation": {
+          "fr": {
+            "values": [
+              {
+                "key": "showFooter",
+                "value": true,
+                "name": "Afficher le footer",
+                "description": "Affiche ou masque le footer (bas du site)",
+                "group": "Général"
+              }
+            ]
+          },
+          "en": {
+            "values": [
+              {
+                "key": "showFooter",
+                "value": true,
+                "name": "Show footer",
+                "description": "Show or hide the footer ",
+                "group": "General"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

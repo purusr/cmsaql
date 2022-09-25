@@ -1,0 +1,82 @@
+{
+  "collection": "statics",
+  "datas": [
+    {
+      "active": true,
+      "group": "general",
+      "_id": "5c80e51d1064d755ec79137d",
+      "type": "page",
+      "code": "blog",
+      "translation": {
+        "fr": {
+          "name": "Blog",
+          "slug": "blog",
+          "title": "Blog",
+          "metaDesc": "blog",
+          "content": "<!-- Page info -->\n<div class=\"page-top-info\">\n<div class=\"container\">\n<h4>Blog</h4>\n<div class=\"site-pagination\"><a>Home</a> / <a>Shop</a></div>\n</div>\n</div>\n<!-- Page info end -->\n<section class=\"blog-section\">\n<div class=\"container\"><ns-blog-articles></ns-blog-articles></div>\n</section>",
+          "html": "<!-- Page info -->\n<div class=\"page-top-info\">\n<div class=\"container\">\n<h4>Blog</h4>\n<div class=\"site-pagination\"><a>Home</a> / <a>Shop</a></div>\n</div>\n</div>\n<!-- Page info end -->\n<section class=\"blog-section\">\n<div class=\"container\"><ns-blog-articles></ns-blog-articles></div>\n</section>",
+          "variables": []
+        },
+        "en": {
+          "html": "<!-- Page info -->\n<div class=\"page-top-info\">\n<div class=\"container\">\n<h4>Blog</h4>\n<div class=\"site-pagination\"><a>Home</a> / <a>Shop</a></div>\n</div>\n</div>\n<!-- Page info end -->\n<section class=\"blog-section\">\n<div class=\"container\"><ns-blog-articles></ns-blog-articles></div>\n</section>",
+          "variables": [],
+          "content": "<!-- Page info -->\n<div class=\"page-top-info\">\n<div class=\"container\">\n<h4>Blog</h4>\n<div class=\"site-pagination\"><a>Home</a> / <a>Shop</a></div>\n</div>\n</div>\n<!-- Page info end -->\n<section class=\"blog-section\">\n<div class=\"container\"><ns-blog-articles></ns-blog-articles></div>\n</section>",
+          "slug": "blog"
+        }
+      },
+      "createdAt": "2019-03-07T09:32:13.162Z",
+      "updatedAt": "2022-03-08T09:48:23.988Z"
+    },
+    {
+      "active": true,
+      "group": null,
+      "_id": "5ba2015b49ceac42b4a16865",
+      "type": "page",
+      "code": "contact",
+      "translation": {
+        "fr": {
+          "content": "<!-- Page info -->\n<div class=\"page-top-info\">\n<div class=\"container\">\n<h4>Contact</h4>\n<div class=\"site-pagination\"><a href=\"/\">Home</a> / Contact</div>\n</div>\n</div>\n<!-- Page info end -->\n<section class=\"contact-section\">\n<div class=\"container\"><form class=\"checkout-form\" action=\"?\" method=\"post\">\n<div class=\"cf-title\">Une question ?<br /><small>Contactez-nous en remplissant le formulaire suivant :</small></div>\n<div class=\"form__row\"><label for=\"firstname\" class=\"form__label\"> Pr&eacute;nom<span>*</span> </label>\n<div class=\"form__controls\"><input type=\"text\" required=\"\" class=\"field\" name=\"firstname\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"lastname\" class=\"form__label\"> Nom<span>*</span> </label>\n<div class=\"form__controls\"><input type=\"text\" required=\"\" class=\"field\" name=\"lastname\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"company\" class=\"form__label\"> Societ&eacute; </label>\n<div class=\"form__controls\"><input type=\"text\" class=\"field\" name=\"company\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"message\" class=\"form__label\"> Message<span>*</span> </label>\n<div class=\"form__controls\"><textarea required=\"\" class=\"field textarea\" name=\"message\"></textarea></div>\n</div>\n<div class=\"form__row\"><label for=\"fichiers\" class=\"form__label\"> Fichiers </label>\n<div class=\"form__controls\"><input type=\"file\" class=\"field\" name=\"file\" /></div>\n</div>\n<ns-contact button-title=\"Envoyer\" mode=\"store&amp;send\" classinput=\"site-btn\"></ns-contact></form><ns-cms ns-code=\"legalTxtc\" hide_error=\"true\"></ns-cms></div>\n</section>",
+          "title": "Contact",
+          "metaDesc": "contact",
+          "slug": "contact",
+          "html": "<!-- Page info -->\n<div class=\"page-top-info\">\n<div class=\"container\">\n<h4>Contact</h4>\n<div class=\"site-pagination\"><a href=\"/\">Home</a> / Contact</div>\n</div>\n</div>\n<!-- Page info end -->\n<section class=\"contact-section\">\n<div class=\"container\"><form class=\"checkout-form\" action=\"?\" method=\"post\">\n<div class=\"cf-title\">Une question ?<br /><small>Contactez-nous en remplissant le formulaire suivant :</small></div>\n<div class=\"form__row\"><label for=\"firstname\" class=\"form__label\"> Pr&eacute;nom<span>*</span> </label>\n<div class=\"form__controls\"><input type=\"text\" required=\"\" class=\"field\" name=\"firstname\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"lastname\" class=\"form__label\"> Nom<span>*</span> </label>\n<div class=\"form__controls\"><input type=\"text\" required=\"\" class=\"field\" name=\"lastname\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"company\" class=\"form__label\"> Societ&eacute; </label>\n<div class=\"form__controls\"><input type=\"text\" class=\"field\" name=\"company\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"message\" class=\"form__label\"> Message<span>*</span> </label>\n<div class=\"form__controls\"><textarea required=\"\" class=\"field textarea\" name=\"message\"></textarea></div>\n</div>\n<div class=\"form__row\"><label for=\"fichiers\" class=\"form__label\"> Fichiers </label>\n<div class=\"form__controls\"><input type=\"file\" class=\"field\" name=\"file\" /></div>\n</div>\n<ns-contact button-title=\"Envoyer\" mode=\"store&amp;send\" classinput=\"site-btn\"></ns-contact></form><ns-cms ns-code=\"legalTxtc\" hide_error=\"true\"></ns-cms></div>\n</section>",
+          "variables": []
+        },
+        "en": {
+          "html": "<!-- Page info -->\n<div class=\"page-top-info\">\n<div class=\"container\">\n<h4>Contact</h4>\n<div class=\"site-pagination\"><a href=\"/\">Home</a> / Contact</div>\n</div>\n</div>\n<!-- Page info end -->\n<section class=\"contact-section\">\n<div class=\"container\"><form class=\"checkout-form\" action=\"?\" method=\"post\">\n<div class=\"cf-title\">A question?<br /><small>Contact us by filling out the following form :</small></div>\n<div class=\"form__row\"><label for=\"firstname\" class=\"form__label\"> first name<span>*</span> </label>\n<div class=\"form__controls\"><input type=\"text\" required=\"\" class=\"field\" name=\"firstname\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"lastname\" class=\"form__label\"> Last name<span>*</span> </label>\n<div class=\"form__controls\"><input type=\"text\" required=\"\" class=\"field\" name=\"lastname\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"company\" class=\"form__label\"> Company </label>\n<div class=\"form__controls\"><input type=\"text\" class=\"field\" name=\"company\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"message\" class=\"form__label\"> Message<span>*</span> </label>\n<div class=\"form__controls\"><textarea required=\"\" class=\"field textarea\" name=\"message\"></textarea></div>\n</div>\n<div class=\"form__row\"><label for=\"fichiers\" class=\"form__label\"> Files </label>\n<div class=\"form__controls\"><input type=\"file\" class=\"field\" name=\"file\" /></div>\n</div>\n<ns-contact button-title=\"Envoyer\" mode=\"store&amp;send\" classinput=\"site-btn\"></ns-contact></form><ns-cms ns-code=\"legalTxtc\" hide_error=\"true\"></ns-cms></div>\n</section>",
+          "variables": [],
+          "content": "<!-- Page info -->\n<div class=\"page-top-info\">\n<div class=\"container\">\n<h4>Contact</h4>\n<div class=\"site-pagination\"><a href=\"/\">Home</a> / Contact</div>\n</div>\n</div>\n<!-- Page info end -->\n<section class=\"contact-section\">\n<div class=\"container\"><form class=\"checkout-form\" action=\"?\" method=\"post\">\n<div class=\"cf-title\">A question?<br /><small>Contact us by filling out the following form :</small></div>\n<div class=\"form__row\"><label for=\"firstname\" class=\"form__label\"> first name<span>*</span> </label>\n<div class=\"form__controls\"><input type=\"text\" required=\"\" class=\"field\" name=\"firstname\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"lastname\" class=\"form__label\"> Last name<span>*</span> </label>\n<div class=\"form__controls\"><input type=\"text\" required=\"\" class=\"field\" name=\"lastname\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"company\" class=\"form__label\"> Company </label>\n<div class=\"form__controls\"><input type=\"text\" class=\"field\" name=\"company\" /></div>\n</div>\n<div class=\"form__row\"><label for=\"message\" class=\"form__label\"> Message<span>*</span> </label>\n<div class=\"form__controls\"><textarea required=\"\" class=\"field textarea\" name=\"message\"></textarea></div>\n</div>\n<div class=\"form__row\"><label for=\"fichiers\" class=\"form__label\"> Files </label>\n<div class=\"form__controls\"><input type=\"file\" class=\"field\" name=\"file\" /></div>\n</div>\n<ns-contact button-title=\"Envoyer\" mode=\"store&amp;send\" classinput=\"site-btn\"></ns-contact></form><ns-cms ns-code=\"legalTxtc\" hide_error=\"true\"></ns-cms></div>\n</section>",
+          "slug": "contact"
+        }
+      },
+      "createdAt": "2019-02-15T15:12:12.619Z",
+      "updatedAt": "2022-03-08T09:53:36.088Z"
+    },
+    {
+      "active": true,
+      "group": "",
+      "_id": "5b7e7af409c72307ffb3c7cc",
+      "code": "home",
+      "type": "page",
+      "translation": {
+        "fr": {
+          "metaDesc": "meta description du site",
+          "title": "Titre du site",
+          "content": "<!-- Hero section -->\n<section class=\"hero-section\"><ns-slider ns-code=\"slider-accueil\"></ns-slider></section>\n<!-- Hero section end --> <!-- Features section -->\n<section class=\"features-section\">\n<div class=\"container-fluid\">\n<div class=\"row\">\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/1.png\" alt=\"#\" /></div>\n<h2>Fast Secure Payments</h2>\n</div>\n</div>\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/2.png\" alt=\"#\" /></div>\n<h2>Premium Products</h2>\n</div>\n</div>\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/3.png\" alt=\"#\" /></div>\n<h2>Free &amp; fast Delivery</h2>\n</div>\n</div>\n</div>\n</div>\n</section>",
+          "slug": "home",
+          "name": "home",
+          "html": "<!-- Hero section -->\n<section class=\"hero-section\"><ns-slider ns-code=\"slider-accueil\"></ns-slider></section>\n<!-- Hero section end --> <!-- Features section -->\n<section class=\"features-section\">\n<div class=\"container-fluid\">\n<div class=\"row\">\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/1.png\" alt=\"#\" /></div>\n<h2>Fast Secure Payments</h2>\n</div>\n</div>\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/2.png\" alt=\"#\" /></div>\n<h2>Premium Products</h2>\n</div>\n</div>\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/3.png\" alt=\"#\" /></div>\n<h2>Free &amp; fast Delivery</h2>\n</div>\n</div>\n</div>\n</div>\n</section>",
+          "variables": []
+        },
+        "en": {
+          "html": "<!-- Hero section -->\n<section class=\"hero-section\"><ns-slider ns-code=\"slider-accueil\"></ns-slider></section>\n<!-- Hero section end --> <!-- Features section -->\n<section class=\"features-section\">\n<div class=\"container-fluid\">\n<div class=\"row\">\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/1.png\" alt=\"#\" /></div>\n<h2>Fast Secure Payments</h2>\n</div>\n</div>\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/2.png\" alt=\"#\" /></div>\n<h2>Premium Products</h2>\n</div>\n</div>\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/3.png\" alt=\"#\" /></div>\n<h2>Free &amp; fast Delivery</h2>\n</div>\n</div>\n</div>\n</div>\n</section>",
+          "variables": [],
+          "content": "<!-- Hero section -->\n<section class=\"hero-section\"><ns-slider ns-code=\"slider-accueil\"></ns-slider></section>\n<!-- Hero section end --> <!-- Features section -->\n<section class=\"features-section\">\n<div class=\"container-fluid\">\n<div class=\"row\">\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/1.png\" alt=\"#\" /></div>\n<h2>Fast Secure Payments</h2>\n</div>\n</div>\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/2.png\" alt=\"#\" /></div>\n<h2>Premium Products</h2>\n</div>\n</div>\n<div class=\"col-md-4 p-0 feature\">\n<div class=\"feature-inner\">\n<div class=\"feature-icon\"><img src=\"/medias/3.png\" alt=\"#\" /></div>\n<h2>Free &amp; fast Delivery</h2>\n</div>\n</div>\n</div>\n</div>\n</section>",
+          "slug": "home"
+        }
+      },
+      "createdAt": "2019-02-15T15:12:12.619Z",
+      "updatedAt": "2022-03-15T09:16:10.226Z"
+    }
+  ]
+}

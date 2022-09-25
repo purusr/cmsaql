@@ -1,0 +1,3120 @@
+{
+  "collection": "categories",
+  "datas": [
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": []
+      },
+      "active": false,
+      "clickable": false,
+      "isDisplayed": false,
+      "action": "catalog",
+      "ancestors": [],
+      "children": [
+        "5c80e722a9289e2ef4db8448",
+        "5f059a73c050df4bb0c55862",
+        "5f059b23c050df4bb0c55867",
+        "5f2a65b3f759442fb418cbc3",
+        "5f2a65c3f759442fb418cbc4",
+        "5f2a6601f759442fb418cc0e",
+        "5f2a6617f759442fb418cc0f",
+        "5f2a662cf759442fb418cc10",
+        "5f68baebc03e1945e055dd5d"
+      ],
+      "displayOrder": 0,
+      "canonical_weight": 0,
+      "_id": "5b7ea55c09c72307ffb3c7dd",
+      "code": "menu-header",
+      "translation": {
+        "fr": {
+          "name": "Menu header",
+          "slug": "menu-header"
+        },
+        "en": {
+          "name": "Menu header",
+          "slug": "menu-header"
+        }
+      },
+      "productsList": [],
+      "createdAt": "2019-02-15T15:12:12.322Z",
+      "openDate": "2019-02-15T15:12:12.322Z",
+      "updatedAt": "2022-03-15T11:19:15.719Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": []
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "page",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [],
+      "displayOrder": 8,
+      "canonical_weight": 0,
+      "_id": "5c80e722a9289e2ef4db8448",
+      "code": "blog",
+      "translation": {
+        "fr": {
+          "slug": "blog",
+          "name": "Blog",
+          "pageSlug": "blog",
+          "metaDescription": "Blog  meta description"
+        },
+        "en": {
+          "name": "Blog",
+          "metaDescription": "Blog  meta description",
+          "pageSlug": "blog",
+          "slug": "blog"
+        }
+      },
+      "openDate": "2019-03-07T09:40:50.038Z",
+      "createdAt": "2019-03-07T09:40:50.038Z",
+      "productsList": [],
+      "updatedAt": "2022-03-15T11:19:15.721Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": []
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "page",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [],
+      "displayOrder": 1,
+      "canonical_weight": 0,
+      "_id": "5f059a73c050df4bb0c55862",
+      "translation": {
+        "fr": {
+          "name": "Home",
+          "slug": "home",
+          "pageSlug": "home"
+        },
+        "en": {
+          "name": "Home",
+          "slug": "home",
+          "pageSlug": "home"
+        }
+      },
+      "code": "home",
+      "openDate": "2020-07-08T10:05:39.280Z",
+      "createdAt": "2020-07-08T10:05:39.280Z",
+      "productsList": [],
+      "updatedAt": "2022-03-15T11:19:15.722Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2a70d8f759442fb418d068",
+            "code": "type",
+            "translation": {
+              "fr": {
+                "name": "Type",
+                "values": [
+                  "à Talon",
+                  "Bottines",
+                  "Sport"
+                ]
+              },
+              "en": {
+                "name": "Type",
+                "values": [
+                  "Heels",
+                  "Booties",
+                  "Sport"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70d8f759442fb418d068",
+            "position": 5
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [
+        "5f2a673cf759442fb418cca0",
+        "5f2a674af759442fb418cca1",
+        "5f2a6759f759442fb418cca2"
+      ],
+      "displayOrder": 6,
+      "canonical_weight": 0,
+      "_id": "5f059b23c050df4bb0c55867",
+      "translation": {
+        "fr": {
+          "name": "Chaussures",
+          "slug": "chaussures"
+        },
+        "en": {
+          "name": "Shoes",
+          "slug": "shoes"
+        }
+      },
+      "code": "shoes",
+      "openDate": "2020-07-08T10:08:35.637Z",
+      "createdAt": "2020-07-08T10:08:35.637Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6165e",
+          "id": "5f2d147a51750d2dc8b5e08e"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6165f",
+          "id": "5f2d15d051750d2dc8b5e0a1"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61660",
+          "id": "5f2d176151750d2dc8b5e0b4"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61661",
+          "id": "5f2d17e051750d2dc8b5e0c7"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61662",
+          "id": "5f2d190251750d2dc8b5e0e1"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61663",
+          "id": "5f2d190651750d2dc8b5e0e7"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61664",
+          "id": "5f2d1aed51750d2dc8b5e0f4"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61665",
+          "id": "5f2d1c9a51750d2dc8b5e114"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61666",
+          "id": "5f2d1ca451750d2dc8b5e119"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.724Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "Sélection multiple",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6"
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [],
+      "displayOrder": 2,
+      "canonical_weight": 0,
+      "_id": "5f2a65b3f759442fb418cbc3",
+      "translation": {
+        "fr": {
+          "name": "Robes & Jupes",
+          "slug": "robes"
+        },
+        "en": {
+          "name": "Dresses & Skirts",
+          "slug": "dresses"
+        }
+      },
+      "code": "robes",
+      "openDate": "2020-08-05T07:54:27.700Z",
+      "createdAt": "2020-08-05T07:54:27.700Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61667",
+          "id": "5f2a7f75f759442fb418d06e"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61668",
+          "id": "5f2a7f9ef759442fb418d075"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61669",
+          "id": "5f2a7fd5f759442fb418d079"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6166a",
+          "id": "5f2a806df759442fb418d081"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6166b",
+          "id": "5f2a80bef759442fb418d08b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6166c",
+          "id": "5f2a81d1f759442fb418d0ad"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.727Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [
+        "5f2a66abf759442fb418cc7d",
+        "5f2a66c0f759442fb418cc7e",
+        "5f2a66d0f759442fb418cc7f",
+        "5f2a66e3f759442fb418cc80",
+        "5f2a6a1ff759442fb418cd53"
+      ],
+      "displayOrder": 3,
+      "canonical_weight": 0,
+      "_id": "5f2a65c3f759442fb418cbc4",
+      "translation": {
+        "fr": {
+          "name": "Hauts",
+          "slug": "hauts"
+        },
+        "en": {
+          "name": "Tops",
+          "slug": "tops"
+        }
+      },
+      "code": "hauts",
+      "openDate": "2020-08-05T07:54:43.153Z",
+      "createdAt": "2020-08-05T07:54:43.153Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6166d",
+          "id": "5f2aae034168fe0b983ca913"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6166e",
+          "id": "5f2ab7794168fe0b983cacf3"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6166f",
+          "id": "5f2ab84b4168fe0b983cad0d"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61670",
+          "id": "5f2ab9854168fe0b983caea3"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61671",
+          "id": "5f2abaff4168fe0b983cb137"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61672",
+          "id": "5f2abbb14168fe0b983cb13c"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61673",
+          "id": "5f2abd644168fe0b983cb146"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61674",
+          "id": "5f2abd984168fe0b983cb14b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61675",
+          "id": "5f2abdee4168fe0b983cb150"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61676",
+          "id": "5f2abe5c4168fe0b983cb155"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61677",
+          "id": "5f2abe864168fe0b983cb15a"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61678",
+          "id": "5f2abece4168fe0b983cb15f"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61679",
+          "id": "5f2abf0c4168fe0b983cb164"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6167a",
+          "id": "5f2abf3f4168fe0b983cb169"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6167b",
+          "id": "5f2abf814168fe0b983cb16e"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6167c",
+          "id": "5f2abfc14168fe0b983cb173"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6167d",
+          "id": "5f2c040a8e875e1bc024107b"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.730Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2a70acf759442fb418d065",
+            "code": "style",
+            "translation": {
+              "fr": {
+                "name": "Style",
+                "values": [
+                  "Classique",
+                  "Jean",
+                  "Leggings",
+                  "Joggings"
+                ]
+              },
+              "en": {
+                "name": "Style",
+                "values": [
+                  "Classic",
+                  "Jean",
+                  "Leggings",
+                  "Joggings"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70acf759442fb418d065",
+            "position": 4
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [],
+      "displayOrder": 4,
+      "canonical_weight": 0,
+      "_id": "5f2a6601f759442fb418cc0e",
+      "translation": {
+        "fr": {
+          "name": "Pantalons",
+          "slug": "pantalons"
+        },
+        "en": {
+          "name": "Trousers",
+          "slug": "trousers"
+        }
+      },
+      "code": "pantalons",
+      "openDate": "2020-08-05T07:55:45.139Z",
+      "createdAt": "2020-08-05T07:55:45.139Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6168c",
+          "id": "5f2ac1794168fe0b983cb178"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6168d",
+          "id": "5f2acbbb4168fe0b983cb182"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6168e",
+          "id": "5f2acef64168fe0b983cb4f5"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6168f",
+          "id": "5f2acf5e4168fe0b983cb504"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61690",
+          "id": "5f2c17bc42840f3da4efbc8c"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61691",
+          "id": "5f2c189f42840f3da4efbc98"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61692",
+          "id": "5f2c1b8742840f3da4efbcae"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61693",
+          "id": "5f2c1b9442840f3da4efbcb3"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.734Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "Sélection multiple",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6"
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [],
+      "displayOrder": 5,
+      "canonical_weight": 0,
+      "_id": "5f2a6617f759442fb418cc0f",
+      "translation": {
+        "fr": {
+          "name": "Vestes  & Manteaux",
+          "slug": "vestes"
+        },
+        "en": {
+          "name": "Jackets & Coats",
+          "slug": "jackets"
+        }
+      },
+      "code": "veste",
+      "openDate": "2020-08-05T07:56:07.658Z",
+      "createdAt": "2020-08-05T07:56:07.658Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6169a",
+          "id": "5f2d096751750d2dc8b5def2"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6169b",
+          "id": "5f2d097251750d2dc8b5def7"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6169c",
+          "id": "5f2d097c51750d2dc8b5defc"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6169d",
+          "id": "5f2d098a51750d2dc8b5df01"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6169e",
+          "id": "5f2d099c51750d2dc8b5df0b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6169f",
+          "id": "5f2d09b051750d2dc8b5df10"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.737Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2a70acf759442fb418d065",
+            "code": "style",
+            "translation": {
+              "fr": {
+                "name": "Style",
+                "values": [
+                  "Classique",
+                  "Jean",
+                  "Leggings",
+                  "Joggings"
+                ]
+              },
+              "en": {
+                "name": "Style",
+                "values": [
+                  "Classic",
+                  "Jean",
+                  "Leggings",
+                  "Joggings"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70acf759442fb418d065",
+            "position": 4
+          },
+          {
+            "_id": "5f2a70d8f759442fb418d068",
+            "code": "type",
+            "translation": {
+              "fr": {
+                "name": "Type",
+                "values": [
+                  "à Talon",
+                  "Bottines",
+                  "Sport"
+                ]
+              },
+              "en": {
+                "name": "Type",
+                "values": [
+                  "Heels",
+                  "Booties",
+                  "Sport"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70d8f759442fb418d068",
+            "position": 5
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [
+        "5f2a670bf759442fb418cc99",
+        "5f2ab2764168fe0b983ca9e1"
+      ],
+      "displayOrder": 7,
+      "canonical_weight": 0,
+      "_id": "5f2a662cf759442fb418cc10",
+      "translation": {
+        "fr": {
+          "name": "Marques",
+          "slug": "marques"
+        },
+        "en": {
+          "name": "Brand",
+          "slug": "brand"
+        }
+      },
+      "code": "marques",
+      "openDate": "2020-08-05T07:56:28.991Z",
+      "createdAt": "2020-08-05T07:56:28.991Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a0",
+          "id": "5f2a7f75f759442fb418d06e"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a1",
+          "id": "5f2a7f9ef759442fb418d075"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a2",
+          "id": "5f2a7fd5f759442fb418d079"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a3",
+          "id": "5f2a806df759442fb418d081"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a4",
+          "id": "5f2a80bef759442fb418d08b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a5",
+          "id": "5f2a81d1f759442fb418d0ad"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a6",
+          "id": "5f2aae034168fe0b983ca913"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a7",
+          "id": "5f2ab7794168fe0b983cacf3"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a8",
+          "id": "5f2ab84b4168fe0b983cad0d"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616a9",
+          "id": "5f2ab9854168fe0b983caea3"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616aa",
+          "id": "5f2abaff4168fe0b983cb137"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616ab",
+          "id": "5f2abbb14168fe0b983cb13c"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616ac",
+          "id": "5f2abd644168fe0b983cb146"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616ad",
+          "id": "5f2abd984168fe0b983cb14b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616ae",
+          "id": "5f2abdee4168fe0b983cb150"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616af",
+          "id": "5f2abe5c4168fe0b983cb155"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b0",
+          "id": "5f2abe864168fe0b983cb15a"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b1",
+          "id": "5f2abece4168fe0b983cb15f"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b2",
+          "id": "5f2abf0c4168fe0b983cb164"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b3",
+          "id": "5f2abf3f4168fe0b983cb169"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b4",
+          "id": "5f2abf814168fe0b983cb16e"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b5",
+          "id": "5f2abfc14168fe0b983cb173"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b6",
+          "id": "5f2c040a8e875e1bc024107b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b7",
+          "id": "5f2d096751750d2dc8b5def2"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b8",
+          "id": "5f2d097251750d2dc8b5def7"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616b9",
+          "id": "5f2d097c51750d2dc8b5defc"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616ba",
+          "id": "5f2d098a51750d2dc8b5df01"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616bb",
+          "id": "5f2d099c51750d2dc8b5df0b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616bc",
+          "id": "5f2d09b051750d2dc8b5df10"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.740Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "Sélection multiple",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6"
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": "Brand",
+              "values": [
+                "Toute",
+                "Alvi"
+              ]
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f2a65c3f759442fb418cbc4"
+      ],
+      "children": [],
+      "displayOrder": 1,
+      "canonical_weight": 0,
+      "_id": "5f2a66abf759442fb418cc7d",
+      "translation": {
+        "fr": {
+          "name": "Tops & T-shirts",
+          "slug": "tops"
+        },
+        "en": {
+          "name": "Tops & T-shirts",
+          "slug": "tops"
+        }
+      },
+      "code": "tops",
+      "openDate": "2020-08-05T07:58:35.002Z",
+      "createdAt": "2020-08-05T07:58:35.002Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6167e",
+          "id": "5f2aae034168fe0b983ca913"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6167f",
+          "id": "5f2ab7794168fe0b983cacf3"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61680",
+          "id": "5f2ab84b4168fe0b983cad0d"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61681",
+          "id": "5f2abaff4168fe0b983cb137"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61682",
+          "id": "5f2c040a8e875e1bc024107b"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.743Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "Sélection multiple",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6"
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f2a65c3f759442fb418cbc4"
+      ],
+      "children": [],
+      "displayOrder": 2,
+      "canonical_weight": 0,
+      "_id": "5f2a66c0f759442fb418cc7e",
+      "translation": {
+        "fr": {
+          "name": "Chemisiers",
+          "slug": "chemisiers"
+        },
+        "en": {
+          "name": "Blouses",
+          "slug": "blouses"
+        }
+      },
+      "code": "chemisiers",
+      "openDate": "2020-08-05T07:58:56.488Z",
+      "createdAt": "2020-08-05T07:58:56.488Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61683",
+          "id": "5f2ab9854168fe0b983caea3"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61684",
+          "id": "5f2abbb14168fe0b983cb13c"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.745Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f2a65c3f759442fb418cbc4"
+      ],
+      "children": [],
+      "displayOrder": 4,
+      "canonical_weight": 0,
+      "_id": "5f2a66d0f759442fb418cc7f",
+      "translation": {
+        "fr": {
+          "name": "Pulls & Gilets",
+          "slug": "pulls"
+        },
+        "en": {
+          "name": "Sweaters & Vests",
+          "slug": "sweaters"
+        }
+      },
+      "code": "pulls",
+      "openDate": "2020-08-05T07:59:12.832Z",
+      "createdAt": "2020-08-05T07:59:12.833Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61685",
+          "id": "5f2abe5c4168fe0b983cb155"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61686",
+          "id": "5f2abe864168fe0b983cb15a"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61687",
+          "id": "5f2abece4168fe0b983cb15f"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61688",
+          "id": "5f2abf0c4168fe0b983cb164"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b61689",
+          "id": "5f2abf3f4168fe0b983cb169"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.748Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "Sélection multiple",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6"
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f2a65c3f759442fb418cbc4"
+      ],
+      "children": [],
+      "displayOrder": 5,
+      "canonical_weight": 0,
+      "_id": "5f2a66e3f759442fb418cc80",
+      "translation": {
+        "fr": {
+          "name": "Sweats",
+          "slug": "sweats"
+        },
+        "en": {
+          "name": "Sweats",
+          "slug": "sweats"
+        }
+      },
+      "code": "sweet",
+      "openDate": "2020-08-05T07:59:31.847Z",
+      "createdAt": "2020-08-05T07:59:31.847Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6168a",
+          "id": "5f2abf814168fe0b983cb16e"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b6168b",
+          "id": "5f2abfc14168fe0b983cb173"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.751Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2a70acf759442fb418d065",
+            "code": "style",
+            "translation": {
+              "fr": {
+                "name": "Style",
+                "values": [
+                  "Classique",
+                  "Jean",
+                  "Leggings",
+                  "Joggings"
+                ]
+              },
+              "en": {
+                "name": "Style",
+                "values": [
+                  "Classic",
+                  "Jean",
+                  "Leggings",
+                  "Joggings"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70acf759442fb418d065",
+            "position": 4
+          },
+          {
+            "_id": "5f2a70d8f759442fb418d068",
+            "code": "type",
+            "translation": {
+              "fr": {
+                "name": "Type",
+                "values": [
+                  "à Talon",
+                  "Bottines",
+                  "Sport"
+                ]
+              },
+              "en": {
+                "name": "Type",
+                "values": [
+                  "Heels",
+                  "Booties",
+                  "Sport"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70d8f759442fb418d068",
+            "position": 5
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f2a662cf759442fb418cc10"
+      ],
+      "children": [],
+      "displayOrder": 99,
+      "canonical_weight": 0,
+      "_id": "5f2a670bf759442fb418cc99",
+      "translation": {
+        "fr": {
+          "name": "Toute",
+          "slug": "toute"
+        },
+        "en": {
+          "name": "All",
+          "slug": "toute"
+        }
+      },
+      "code": "Toute",
+      "openDate": "2020-08-05T08:00:11.832Z",
+      "createdAt": "2020-08-05T08:00:11.832Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616bd",
+          "id": "5f2a7f75f759442fb418d06e"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616be",
+          "id": "5f2a806df759442fb418d081"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616bf",
+          "id": "5f2a81d1f759442fb418d0ad"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c0",
+          "id": "5f2ab7794168fe0b983cacf3"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c1",
+          "id": "5f2ab9854168fe0b983caea3"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c2",
+          "id": "5f2abaff4168fe0b983cb137"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c3",
+          "id": "5f2abd984168fe0b983cb14b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c4",
+          "id": "5f2abdee4168fe0b983cb150"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c5",
+          "id": "5f2abe864168fe0b983cb15a"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c6",
+          "id": "5f2abf0c4168fe0b983cb164"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c7",
+          "id": "5f2abf3f4168fe0b983cb169"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c8",
+          "id": "5f2c040a8e875e1bc024107b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616c9",
+          "id": "5f2d096751750d2dc8b5def2"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616ca",
+          "id": "5f2d098a51750d2dc8b5df01"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616cb",
+          "id": "5f2d09b051750d2dc8b5df10"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.753Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2a70d8f759442fb418d068",
+            "code": "type",
+            "translation": {
+              "fr": {
+                "name": "Type",
+                "values": [
+                  "à Talon",
+                  "Bottines",
+                  "Sport"
+                ]
+              },
+              "en": {
+                "name": "Type",
+                "values": [
+                  "Heels",
+                  "Booties",
+                  "Sport"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70d8f759442fb418d068",
+            "position": 5
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": false,
+      "clickable": false,
+      "isDisplayed": false,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f059b23c050df4bb0c55867"
+      ],
+      "children": [],
+      "displayOrder": 99,
+      "canonical_weight": 0,
+      "_id": "5f2a673cf759442fb418cca0",
+      "translation": {
+        "fr": {
+          "name": "Bottines",
+          "slug": "bottines"
+        },
+        "en": {
+          "name": "Booties",
+          "slug": "booties"
+        }
+      },
+      "code": "bottines",
+      "openDate": "2020-08-05T08:01:00.379Z",
+      "createdAt": "2020-08-05T08:01:00.379Z",
+      "productsList": [],
+      "updatedAt": "2022-03-15T11:19:15.757Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2a70d8f759442fb418d068",
+            "code": "type",
+            "translation": {
+              "fr": {
+                "name": "Type",
+                "values": [
+                  "à Talon",
+                  "Bottines",
+                  "Sport"
+                ]
+              },
+              "en": {
+                "name": "Type",
+                "values": [
+                  "Heels",
+                  "Booties",
+                  "Sport"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70d8f759442fb418d068",
+            "position": 5
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": false,
+      "clickable": false,
+      "isDisplayed": false,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f059b23c050df4bb0c55867"
+      ],
+      "children": [],
+      "displayOrder": 99,
+      "canonical_weight": 0,
+      "_id": "5f2a674af759442fb418cca1",
+      "translation": {
+        "fr": {
+          "name": "Ballerines",
+          "slug": "ballerines"
+        },
+        "en": {
+          "name": "Ballerinas",
+          "slug": "ballerinas"
+        }
+      },
+      "code": "ballerines",
+      "openDate": "2020-08-05T08:01:14.409Z",
+      "createdAt": "2020-08-05T08:01:14.409Z",
+      "productsList": [],
+      "updatedAt": "2022-03-15T11:19:15.759Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2a70d8f759442fb418d068",
+            "code": "type",
+            "translation": {
+              "fr": {
+                "name": "Type",
+                "values": [
+                  "à Talon",
+                  "Bottines",
+                  "Sport"
+                ]
+              },
+              "en": {
+                "name": "Type",
+                "values": [
+                  "Heels",
+                  "Booties",
+                  "Sport"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70d8f759442fb418d068",
+            "position": 5
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": false,
+      "clickable": false,
+      "isDisplayed": false,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f059b23c050df4bb0c55867"
+      ],
+      "children": [],
+      "displayOrder": 99,
+      "canonical_weight": 0,
+      "_id": "5f2a6759f759442fb418cca2",
+      "translation": {
+        "fr": {
+          "name": "Escarpins",
+          "slug": "escarpins"
+        },
+        "en": {
+          "name": "Pumps",
+          "slug": "pumps"
+        }
+      },
+      "code": "escarpins",
+      "openDate": "2020-08-05T08:01:29.287Z",
+      "createdAt": "2020-08-05T08:01:29.287Z",
+      "productsList": [],
+      "updatedAt": "2022-03-15T11:19:15.762Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2ab2ca4168fe0b983ca9e2",
+            "code": "marque",
+            "translation": {
+              "fr": {
+                "name": "Marque",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              },
+              "en": {
+                "name": "Brand",
+                "values": [
+                  "Toute",
+                  "Alvi"
+                ]
+              }
+            },
+            "type": "Liste déroulante",
+            "id_attribut": "5f2ab2ca4168fe0b983ca9e2"
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f2a65c3f759442fb418cbc4"
+      ],
+      "children": [],
+      "displayOrder": 3,
+      "canonical_weight": 0,
+      "_id": "5f2a6a1ff759442fb418cd53",
+      "translation": {
+        "fr": {
+          "name": "Blouses",
+          "slug": "blouses"
+        },
+        "en": {
+          "name": "Clothing Blouses",
+          "slug": "clothingblouses"
+        }
+      },
+      "code": "blouses",
+      "openDate": "2020-08-05T08:13:19.934Z",
+      "createdAt": "2020-08-05T08:13:19.934Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616cc",
+          "id": "5f2abd644168fe0b983cb146"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616cd",
+          "id": "5f2abd984168fe0b983cb14b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616ce",
+          "id": "5f2abdee4168fe0b983cb150"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.767Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": [
+          {
+            "_id": "5f2a6be0f759442fb418cdb1",
+            "code": "color",
+            "translation": {
+              "fr": {
+                "name": "Couleur"
+              },
+              "en": {
+                "name": "Color"
+              }
+            },
+            "type": "Couleur",
+            "id_attribut": "5f2a6be0f759442fb418cdb1"
+          },
+          {
+            "_id": "5f2a6c4ff759442fb418cdb6",
+            "code": "material",
+            "translation": {
+              "fr": {
+                "name": "Matière",
+                "values": [
+                  "Coton",
+                  "Tissu",
+                  "Lin",
+                  "Laine"
+                ]
+              },
+              "en": {
+                "name": "Material",
+                "values": [
+                  "Cotton",
+                  "Tissue",
+                  "Linen",
+                  "Wool"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c4ff759442fb418cdb6",
+            "position": 2
+          },
+          {
+            "_id": "5f2a6c80f759442fb418cf13",
+            "code": "size",
+            "translation": {
+              "fr": {
+                "name": "Taille",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              },
+              "en": {
+                "name": "Size",
+                "values": [
+                  "40",
+                  "42",
+                  "44",
+                  "34",
+                  "36"
+                ]
+              }
+            },
+            "type": "multiselect",
+            "id_attribut": "5f2a6c80f759442fb418cf13",
+            "position": 3
+          },
+          {
+            "_id": "5f2a70acf759442fb418d065",
+            "code": "style",
+            "translation": {
+              "fr": {
+                "name": "Style",
+                "values": [
+                  "Classique",
+                  "Jean",
+                  "Leggings",
+                  "Joggings"
+                ]
+              },
+              "en": {
+                "name": "Style",
+                "values": [
+                  "Classic",
+                  "Jean",
+                  "Leggings",
+                  "Joggings"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70acf759442fb418d065",
+            "position": 4
+          },
+          {
+            "_id": "5f2a70d8f759442fb418d068",
+            "code": "type",
+            "translation": {
+              "fr": {
+                "name": "Type",
+                "values": [
+                  "à Talon",
+                  "Bottines",
+                  "Sport"
+                ]
+              },
+              "en": {
+                "name": "Type",
+                "values": [
+                  "Heeels",
+                  "Booties",
+                  "Sport"
+                ]
+              }
+            },
+            "type": "list",
+            "id_attribut": "5f2a70d8f759442fb418d068",
+            "position": 5
+          }
+        ]
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "catalog",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd",
+        "5f2a662cf759442fb418cc10"
+      ],
+      "children": [],
+      "displayOrder": 99,
+      "canonical_weight": 0,
+      "_id": "5f2ab2764168fe0b983ca9e1",
+      "translation": {
+        "fr": {
+          "name": "Alvi",
+          "slug": "alvi"
+        },
+        "en": {
+          "name": "Alvi",
+          "slug": "alvi"
+        }
+      },
+      "code": "alvi",
+      "openDate": "2020-08-05T13:21:58.195Z",
+      "createdAt": "2020-08-05T13:21:58.195Z",
+      "productsList": [
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616cf",
+          "id": "5f2a7f9ef759442fb418d075"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d0",
+          "id": "5f2a7fd5f759442fb418d079"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d1",
+          "id": "5f2a80bef759442fb418d08b"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d2",
+          "id": "5f2aae034168fe0b983ca913"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d3",
+          "id": "5f2ab84b4168fe0b983cad0d"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d4",
+          "id": "5f2abbb14168fe0b983cb13c"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d5",
+          "id": "5f2abd644168fe0b983cb146"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d6",
+          "id": "5f2abe5c4168fe0b983cb155"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d7",
+          "id": "5f2abece4168fe0b983cb15f"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d8",
+          "id": "5f2abf814168fe0b983cb16e"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616d9",
+          "id": "5f2abfc14168fe0b983cb173"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616da",
+          "id": "5f2d097251750d2dc8b5def7"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616db",
+          "id": "5f2d097c51750d2dc8b5defc"
+        },
+        {
+          "checked": true,
+          "sortWeight": 0,
+          "_id": "5f2d424751750d2dc8b616dc",
+          "id": "5f2d099c51750d2dc8b5df0b"
+        }
+      ],
+      "updatedAt": "2022-03-15T11:19:15.769Z"
+    },
+    {
+      "filters": {
+        "pictos": [],
+        "attributes": []
+      },
+      "active": true,
+      "clickable": true,
+      "isDisplayed": true,
+      "action": "page",
+      "ancestors": [
+        "5b7ea55c09c72307ffb3c7dd"
+      ],
+      "children": [],
+      "displayOrder": 99,
+      "canonical_weight": 0,
+      "_id": "5f68baebc03e1945e055dd5d",
+      "translation": {
+        "fr": {
+          "name": "Contact",
+          "slug": "contact",
+          "pageSlug": "contact"
+        },
+        "en" : {
+          "name" : "Contact", 
+          "pageSlug" : "contact"
+        }
+      },
+      "code": "contact",
+      "openDate": "2020-09-21T14:38:35.534Z",
+      "createdAt": "2020-09-21T14:38:35.534Z",
+      "productsList": [],
+      "updatedAt": "2022-03-15T11:19:15.772Z"
+    }
+  ]
+}

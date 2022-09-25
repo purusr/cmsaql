@@ -1,0 +1,171 @@
+{
+  "collection": "families",
+  "datas": [
+    {
+      "children": [],
+      "_id": "5f2a6956f759442fb418cd46",
+      "name": "Robes & Jupes",
+      "code": "robes",
+      "type": "universe",
+      "parent": null,
+      "createdAt": "2020-08-05T08:09:58.164Z",
+      "ancestors": [],
+      "slug": "robes-and-jupes-robes",
+      "updatedAt": "2021-03-11T09:16:16.099Z"
+    },
+    {
+      "children": [
+        "5f2a69cbf759442fb418cd4e",
+        "5f2a69d4f759442fb418cd4f",
+        "5f2a69e1f759442fb418cd50",
+        "5f2a69eff759442fb418cd51",
+        "5f2a69f9f759442fb418cd52"
+      ],
+      "_id": "5f2a695ff759442fb418cd47",
+      "name": "Hauts",
+      "code": "hauts",
+      "type": "universe",
+      "parent": null,
+      "createdAt": "2020-08-05T08:10:07.867Z",
+      "ancestors": [],
+      "slug": "hauts-hauts",
+      "updatedAt": "2021-03-11T09:16:16.099Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a696af759442fb418cd48",
+      "name": "Pantalons",
+      "code": "pantalons",
+      "type": "universe",
+      "parent": null,
+      "createdAt": "2020-08-05T08:10:18.483Z",
+      "ancestors": [],
+      "slug": "pantalons-pantalons",
+      "updatedAt": "2021-03-11T09:16:16.099Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a6975f759442fb418cd49",
+      "name": "Vestes & Manteaux",
+      "code": "vestes",
+      "type": "universe",
+      "parent": null,
+      "createdAt": "2020-08-05T08:10:29.540Z",
+      "ancestors": [],
+      "slug": "vestes-and-manteaux-vestes",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [
+        "5f2a6a76f759442fb418cd62",
+        "5f2a6a85f759442fb418cd63",
+        "5f2a6a97f759442fb418cd64"
+      ],
+      "_id": "5f2a697df759442fb418cd4b",
+      "name": "Chaussures",
+      "code": "chaussures",
+      "type": "universe",
+      "parent": null,
+      "createdAt": "2020-08-05T08:10:37.252Z",
+      "ancestors": [],
+      "slug": "chaussures-chaussures",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a69cbf759442fb418cd4e",
+      "name": "Sweets",
+      "code": "sweet",
+      "type": "family",
+      "parent": "5f2a695ff759442fb418cd47",
+      "createdAt": "2020-08-05T08:11:55.293Z",
+      "ancestors": [],
+      "slug": "sweets-sweet",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a69d4f759442fb418cd4f",
+      "name": "Pulls & Gilets",
+      "code": "pulls",
+      "type": "family",
+      "parent": "5f2a695ff759442fb418cd47",
+      "createdAt": "2020-08-05T08:12:04.835Z",
+      "ancestors": [],
+      "slug": "pulls-and-gilets-pulls",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a69e1f759442fb418cd50",
+      "name": "Blouses",
+      "code": "blouses",
+      "type": "family",
+      "parent": "5f2a695ff759442fb418cd47",
+      "createdAt": "2020-08-05T08:12:17.122Z",
+      "ancestors": [],
+      "slug": "blouses-blouses",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a69eff759442fb418cd51",
+      "name": "Chemisiers",
+      "code": "chemisiers",
+      "type": "family",
+      "parent": "5f2a695ff759442fb418cd47",
+      "createdAt": "2020-08-05T08:12:31.538Z",
+      "ancestors": [],
+      "slug": "chemisiers-chemisiers",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a69f9f759442fb418cd52",
+      "name": "Tops & T-shirts",
+      "code": "tops",
+      "type": "family",
+      "parent": "5f2a695ff759442fb418cd47",
+      "createdAt": "2020-08-05T08:12:41.500Z",
+      "ancestors": [],
+      "slug": "tops-and-t-shirts-tops",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a6a76f759442fb418cd62",
+      "name": "Escarpins",
+      "code": "escarpins",
+      "type": "family",
+      "parent": "5f2a697df759442fb418cd4b",
+      "createdAt": "2020-08-05T08:14:46.719Z",
+      "ancestors": [],
+      "slug": "escarpins-escarpins",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a6a85f759442fb418cd63",
+      "name": "Ballerines",
+      "code": "ballerines",
+      "type": "family",
+      "parent": "5f2a697df759442fb418cd4b",
+      "createdAt": "2020-08-05T08:15:01.594Z",
+      "ancestors": [],
+      "slug": "ballerines-ballerines",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    },
+    {
+      "children": [],
+      "_id": "5f2a6a97f759442fb418cd64",
+      "name": "Bottines",
+      "code": "bottines",
+      "type": "family",
+      "parent": "5f2a697df759442fb418cd4b",
+      "createdAt": "2020-08-05T08:15:19.745Z",
+      "ancestors": [],
+      "slug": "bottines-bottines",
+      "updatedAt": "2021-03-11T09:16:16.100Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "collection": "trademarks",
+  "datas": [
+    {
+      "active": true,
+      "_id": "5f2a6941f759442fb418cd45",
+      "name": "All",
+      "createdAt": "2020-08-05T08:09:37.404Z",
+      "code": "Toute",
+      "updatedAt": "2022-03-15T11:11:48.716Z"
+    },
+    {
+      "active": true,
+      "_id": "5f2ab7a84168fe0b983cacf8",
+      "name": "Alvi",
+      "createdAt": "2020-08-05T13:44:08.020Z",
+      "code": "alvi",
+      "updatedAt": "2021-03-11T09:16:16.765Z"
+    }
+  ]
+}

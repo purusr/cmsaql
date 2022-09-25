@@ -1,0 +1,32 @@
+image: atlassian/default-image:2
+
+pipelines:
+  branches:
+    master:
+      - step:
+          name: Changement de la version
+          script:
+            - npm version patch -m "Upgrade to %s [skip ci]"
+            - git push
+          artifacts:
+            - package.json
+      - step:
+          name: Deploiement du theme sur le S3
+          deployment: production
+          script:
+            #Récupération du nom du theme, zip du dossier et déplacement dans le dossier tmp
+            - themeFolderName=$BITBUCKET_REPO_SLUG
+            - rm -rf .git
+            - mkdir $themeFolderName
+            - mv `ls | grep -vw $themeFolderName` $themeFolderName
+            - zip -r $themeFolderName.zip ./$themeFolderName
+            - mkdir tmp
+            - mv $themeFolderName.zip tmp/
+            - pipe: atlassian/aws-s3-deploy:0.3.2
+              variables:
+                AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+                AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+                AWS_DEFAULT_REGION: 'eu-west-1'
+                S3_BUCKET: 'themes-aquila'
+                LOCAL_PATH: 'tmp'
+                ACL: 'public-read'

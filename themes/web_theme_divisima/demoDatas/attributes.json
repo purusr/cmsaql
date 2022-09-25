@@ -1,0 +1,202 @@
+{
+  "collection": "attributes",
+  "datas": [
+    {
+      "_type": "products",
+      "set_attributes": [
+        "5c5abe92c1f87b5f46c451fa",
+        "5f2a7035f759442fb418cf16",
+        "5f2a703ef759442fb418cf17"
+      ],
+      "position": 1,
+      "visible": true,
+      "usedInRules": true,
+      "usedInFilters": true,
+      "_id": "5f2a6be0f759442fb418cdb1",
+      "param": "Non",
+      "code": "color",
+      "translation": {
+        "fr": {
+          "name": "Couleur"
+        },
+        "en": {
+          "name": "Color"
+        }
+      },
+      "type": "color"
+    },
+    {
+      "_type": "products",
+      "set_attributes": [
+        "5c5abe92c1f87b5f46c451fa",
+        "5f2a7035f759442fb418cf16",
+        "5f2a703ef759442fb418cf17"
+      ],
+      "position": 2,
+      "visible": true,
+      "usedInRules": true,
+      "usedInFilters": true,
+      "_id": "5f2a6c4ff759442fb418cdb6",
+      "param": "Non",
+      "code": "material",
+      "translation": {
+        "fr": {
+          "name": "Matière",
+          "values": [
+            "Coton",
+            "Tissu",
+            "Lin",
+            "Laine"
+          ]
+        },
+        "en": {
+          "name": "Material",
+          "values": [
+            "Cotton",
+            "Tissue",
+            "Linen",
+            "Wool"
+          ]
+        }
+      },
+      "type": "multiselect"
+    },
+    {
+      "_type": "products",
+      "set_attributes": [
+        "5c5abe92c1f87b5f46c451fa",
+        "5f2a7035f759442fb418cf16",
+        "5f2a703ef759442fb418cf17"
+      ],
+      "position": 3,
+      "visible": true,
+      "usedInRules": true,
+      "usedInFilters": true,
+      "_id": "5f2a6c80f759442fb418cf13",
+      "param": "Non",
+      "code": "size",
+      "translation": {
+        "fr": {
+          "name": "Taille",
+          "values": [
+            "40",
+            "42",
+            "44",
+            "34",
+            "36"
+          ]
+        },
+        "en": {
+          "name": "Size",
+          "values": [
+            "40",
+            "42",
+            "44",
+            "34",
+            "36"
+          ]
+        }
+      },
+      "type": "multiselect",
+      "isVariantable": true
+    },
+    {
+      "_type": "products",
+      "set_attributes": [
+        "5f2a7035f759442fb418cf16"
+      ],
+      "position": 4,
+      "visible": true,
+      "usedInRules": true,
+      "usedInFilters": true,
+      "_id": "5f2a70acf759442fb418d065",
+      "param": "Non",
+      "code": "style",
+      "translation": {
+        "fr": {
+          "name": "Style",
+          "values": [
+            "Classique",
+            "Jean",
+            "Leggings",
+            "Joggings"
+          ]
+        },
+        "en": {
+          "name": "Style",
+          "values": [
+            "Classic",
+            "Jean",
+            "Leggings",
+            "Joggings"
+          ]
+        }
+      },
+      "type": "list"
+    },
+    {
+      "_type": "products",
+      "set_attributes": [
+        "5f2a703ef759442fb418cf17"
+      ],
+      "position": 5,
+      "visible": true,
+      "usedInRules": true,
+      "usedInFilters": true,
+      "_id": "5f2a70d8f759442fb418d068",
+      "param": "Non",
+      "code": "type",
+      "translation": {
+        "fr": {
+          "name": "Type",
+          "values": [
+            "à Talon",
+            "Bottines",
+            "Sport"
+          ]
+        },
+        "en": {
+          "name": "Type",
+          "values": [
+            "Heels",
+            "Booties",
+            "Sport"
+          ]
+        }
+      },
+      "type": "list"
+    },
+    {
+      "_type": "products",
+      "set_attributes": [
+        "5c5abe92c1f87b5f46c451fa",
+        "5f2a7035f759442fb418cf16",
+        "5f2a703ef759442fb418cf17"
+      ],
+      "position": 6,
+      "visible": true,
+      "usedInRules": true,
+      "usedInFilters": false,
+      "_id": "5f2ab2ca4168fe0b983ca9e2",
+      "param": "Non",
+      "code": "marque",
+      "translation": {
+        "fr": {
+          "name": "Marque",
+          "values": [
+            "Toute",
+            "Alvi"
+          ]
+        },
+        "en": {
+          "name": "Brand",
+          "values": [
+            "Toute",
+            "Alvi"
+          ]
+        }
+      },
+      "type": "list"
+    }
+  ]
+}

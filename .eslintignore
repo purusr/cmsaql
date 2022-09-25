@@ -1,0 +1,11 @@
+node_modules/
+modules/
+/modules/**/app
+/modules/**/translations
+/modules/**/theme_components
+/updates
+/themes
+/backoffice
+/bo
+/uploads
+config/dynamic_langs.js
